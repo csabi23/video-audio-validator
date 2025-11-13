@@ -1,0 +1,6 @@
+*.tmp
+*.log
+*.pid
+*.bak
+.vscode/
+.idea/
